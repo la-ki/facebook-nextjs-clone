@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["cdn0.iconfinder.com", "firebasestorage.googleapis.com"],
+    domains: ["platform-lookaside.fbsbx.com", "cdn0.iconfinder.com", "1000logos.net", "firebasestorage.googleapis.com"],
   },
 };
